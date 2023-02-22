@@ -112,13 +112,12 @@ section {
     justify-content: center;
     align-items: center;
     gap: 25px;
-    position: relative;
 }
 article.sobre {
     display: flex;
     flex-direction: column;
     gap: 20px;
-    min-width: 350px;
+    min-width: 200px;
     max-width: 650px;
 }
 article.sobre h2 {
@@ -150,7 +149,7 @@ div.logo-space h2 {
     text-shadow: 4px 4px 4px var(--primary-bg);
 }
 img.logo {
-    min-width: 80px;
+    min-width: 60px;
     max-width: 180px;
     margin: auto;
     height: auto;
