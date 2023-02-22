@@ -20,6 +20,8 @@ function MenuMobile () {
     });
 }
 
-document.querySelector('li.menu').onclick = () => alert('Meramente ilustrativo.');
+function Warn() {
+    alert('Meramente ilustrativo.');
+}
 
-hamburguer.addEventListener('click', () => MenuMobile());
+hamburguer.onclick = () => MenuMobile();
