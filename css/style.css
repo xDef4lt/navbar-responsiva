@@ -217,6 +217,7 @@ footer img.icon:hover {
         gap: 5px;
         width: 40px;
         height: auto;
+        overflow-y: hidden;
         padding: 5px;
         margin: auto;
         margin-top: 8px;
