@@ -203,7 +203,7 @@ footer img.icon:hover {
         transition-duration: .5s;
     }
     header.animar {
-        height: 450px;
+        height: 100%;
         animation: mostrar-menu .5s;
     }
     .container p {
@@ -231,9 +231,12 @@ footer img.icon:hover {
         display: flex;
         width: 100%;
         flex-direction: column;
-        gap: 65px;
+        gap: 45px;
         justify-content: center;
         align-items: center;
+    }
+    nav li.menu {
+        font-size: 28px;
     }
     div.logo-space h2 {
         font-size: 36px;
