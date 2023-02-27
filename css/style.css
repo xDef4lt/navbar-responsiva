@@ -79,7 +79,7 @@ a.links {
     position: relative;
     cursor: pointer;
 }
-a.links::after {
+a.links::before {
     content: '';
     width: 0;
     height: 2px;
@@ -90,7 +90,7 @@ a.links::after {
     background: var(--secondary-text);
     transition: width .3s ease;
 }
-a.links:hover::after {
+a.links:hover::before {
     width: 100%;
 }
 div.hamburguer {
