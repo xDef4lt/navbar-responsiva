@@ -10,4 +10,4 @@
   Para ter uma melhor experiência, acesse esta página em diferentes
   dispositivos!
 </p>
-<p> Você pode acessar a página clicando <a href="navbar-responsiva.vercel.app">aqui</a>
+<p> Link da página: https://navbar-responsiva.vercel.app/</p>
