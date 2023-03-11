@@ -1,7 +1,6 @@
-<h1>navbar-responsiva<h1>
-<h2>Navbar responvisa com HTML, CSS e JavaScript<h2>
+<h1>Navbar responvisa com HTML, CSS e JavaScript<h1>
 
-<h3 style="text-align: center;">&rarr O que é esse projeto?</h3>
+<h2 style="text-align: center;">&#8594 O que é esse projeto?</h2>
 
 <p> 
   Fiz este projeto como uma forma de treinar a implementação
