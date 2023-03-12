@@ -325,6 +325,6 @@ footer img.icon:hover {
     from {
         transform: translateY(-5px);
     } to {
-        transformt: translateY(15px);
+        transform: translateY(15px);
     }
 }
