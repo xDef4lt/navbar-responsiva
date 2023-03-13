@@ -1,8 +1,8 @@
-<h1 align="center"> Navbar Responsiva com CSS e JavaScript </h1>
+<h1> Navbar Responsiva com CSS e JavaScript </h1>
 
 <img src="./imgs/site.png">
 
-<h2 align="center">Estudo sobre responsividade e menu hamburguer</h2>
+<h2>Estudo sobre responsividade e menu hamburguer</h2>
 
 <h2> ➢ Um simples estudo </h2>
 <p> 
@@ -14,7 +14,7 @@
   eu tive nesse dia :')
 </p>
 <p>
-  Você pode acessar o site clicando neste link: https://quimicafacil.vercel.app
+  Você pode acessar o site clicando neste link: https://navbar-responsiva.vercel.app/
 </p>
 
 <h3> ➢ Outras informações </h3>
