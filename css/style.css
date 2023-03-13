@@ -112,6 +112,7 @@ section {
     justify-content: center;
     align-items: center;
     gap: 25px;
+    overflow: hidden;
 }
 article.sobre {
     display: flex;
